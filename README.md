@@ -33,7 +33,7 @@ There are 10000 test images and again each image is a 28 pixel by 28 pixel image
 
 
 ![My image Plot](number_7.png)
-![My Probability Plot](probability_graph.png)
+![My Probability Graph](probability_graph.png)
 
 
 
