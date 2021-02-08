@@ -24,6 +24,7 @@ classifications[0]
 np.argmax(classifications[0]) #returns indices of maximum values
 
 plt.imshow(test_images[0])
+plt.savefig('number_7')
 
 b = list(classifications[0])
 for i in range(len(classifications[0])):
@@ -35,4 +36,5 @@ plt.bar(bars,b,color=color)
 plt.xticks(bars)
 plt.tick_params(labelleft=False)
 
+plt.savefig('probability_graph')
 plt.show()
