@@ -37,7 +37,7 @@ predictions[i] = array([0.08533679 , 0.08533679 , 0.085336804, 0.08533712 , 0.08
 
 
 ![My image Plot](number_7.png)
-![My Probability Graph](probability_graph.png)
+![My Probability Graph](probability_graph_1.png)
 
 
 
